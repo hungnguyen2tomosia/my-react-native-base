@@ -1,0 +1,1 @@
+export const RESET_STATE = 'ROOT.RESET_STATE';
